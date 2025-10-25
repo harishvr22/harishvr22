@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="./banner.gif" alt="Banner" width="100%"/>
-</p>
-
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1692a22f-d781-4d25-9f14-e4d5557304a8" 
+       alt="HARISHVR-ezgif com-video-to-gif-converter" 
+       width="80%"/>
+</p>
 
 ##  *About Me*
 
