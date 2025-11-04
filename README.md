@@ -84,7 +84,7 @@
 |---------------|-------------|------------|-------------|
 | Smart Offline AI Water Detection | Detects water level then it can automatically control the water pump on or off to fill the tank and responds to offline voice commands using ESP32. Ideal for municipality water filling and automation. | c++, ESP32, dfmodule | [Link](https://github.com/harishvr22/smart-water-detection) |
 | Real vs AI Image Detection | Identifies whether an image is AI-generated or real, helping detect deepfakes and synthetic media. | Python, PyTorch, ResNet18 | [Link](https://github.com/harishvr22/deepfake-detection) |
-| AI Video Summarizer | It can extract the audio from the video then convert into the text , remove the unwanted text and summarize the text para into fast understandable points. Summarizes long videos into short highlights for faster content consumption. | Python, OpenCV | [Link](https://github.com/harishvr22/ai-video-summarizer) |
+| Video Content Summarizer | It can extract the audio from the video then convert into the text , remove the unwanted text and summarize the text para into fast understandable points. Summarizes long videos into short highlights for faster content consumption. | Python, OpenCV | [Link](https://github.com/harishvr22/ai-video-summarizer) |
 | Student Fees Analysis Dashboard | Visualizes and analyzes student fee data for better management and reporting. | Power BI, Excel | [Link](https://github.com/harishvr22/student-fees-dashboard) |
 
 ---
